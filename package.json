@@ -4,7 +4,7 @@
   "description": "sample serverless project to be used within vscode",
   "main": "handler.js",
   "dependencies": {
-    "serverless": "^1.44.1",
+    "serverless": "^1.83.3",
     "serverless-localstack": "^0.4.15",
     "serverless-offline": "^5.0.1"
   },
